@@ -1,0 +1,28 @@
+{
+    "E'": [
+        "MINUS",
+        "\u03b5",
+        "PLUS"
+    ],
+    "T": [
+        "ID",
+        "LPAREN",
+        "NUM"
+    ],
+    "F": [
+        "ID",
+        "LPAREN",
+        "NUM"
+    ],
+    "T'": [
+        "DIV",
+        "MOD",
+        "MUL",
+        "\u03b5"
+    ],
+    "E": [
+        "ID",
+        "LPAREN",
+        "NUM"
+    ]
+}

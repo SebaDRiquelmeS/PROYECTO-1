@@ -1,0 +1,1 @@
+(valor1 + 100) * 2 % 5 - otra_variable / 3

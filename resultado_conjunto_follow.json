@@ -1,0 +1,31 @@
+{
+    "E'": [
+        "$",
+        "RPAREN"
+    ],
+    "T": [
+        "$",
+        "RPAREN",
+        "MINUS",
+        "PLUS"
+    ],
+    "F": [
+        "RPAREN",
+        "PLUS",
+        "DIV",
+        "MINUS",
+        "MUL",
+        "$",
+        "MOD"
+    ],
+    "T'": [
+        "RPAREN",
+        "MINUS",
+        "PLUS",
+        "$"
+    ],
+    "E": [
+        "$",
+        "RPAREN"
+    ]
+}
